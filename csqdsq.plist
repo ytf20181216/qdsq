@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://115.28.149.68:8081/app/qdsq/qdsq.ipa</string>
+     <string>http://182.92.174.187:2000/app/qdsq/qdsq.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -22,7 +22,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://115.28.149.68:8081/app/qdsq/qdsq.png</string>
+     <string>http://182.92.174.187:2000/app/qdsq/qdsq.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -31,7 +31,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://115.28.149.68:8081/app/qdsq/qdsq.png</string>
+     <string>http://182.92.174.187:2000/app/qdsq/qdsq.png</string>
     </dict>
    </array>
    <key>metadata</key>
